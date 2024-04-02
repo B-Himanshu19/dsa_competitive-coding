@@ -1,5 +1,5 @@
-## Description 
-Binary search recursion finds an element in a sorted array with recursion. 
+## Description (clear description)
+Binary search recursion is which it finds an element in a sorted array with the recursion method. 
 
 ## Code
 ```cpp

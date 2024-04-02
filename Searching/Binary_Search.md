@@ -1,5 +1,5 @@
 ## Description 
-Binary search finds an element in a sorted array with Loops.
+Binary search is which it finds an element in a sorted array with the Loops.
 
 ## Code  
 ```cpp
